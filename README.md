@@ -8,5 +8,8 @@
 3. Stash：戴上鬍子
 4. Raw：不使用任何特效
 
+## 字卡範例
+![image](https://user-images.githubusercontent.com/100160765/211227644-3b5595e1-c89d-4444-aec1-388fa2d56d66.png)
+
 ## 系統架構圖
 ![Final-Presentation](https://user-images.githubusercontent.com/100160765/211211906-1221f458-148e-457c-998e-3b5a430c0b69.png)
